@@ -1,8 +1,6 @@
 // Datastructures.hh
 //
 // Student name: Taisto Tammilehto
-// Student email: taisto.tammilehto@tuni.fi
-// Student number: 151238789
 
 #ifndef DATASTRUCTURES_HH
 #define DATASTRUCTURES_HH
