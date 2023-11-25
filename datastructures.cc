@@ -1,11 +1,6 @@
 // Datastructures.cc
 //
 // Student name: Taisto Tammilehto
-// Student email: taisto.tammilehto@tuni.fi
-// Student number: 151238789
-// AI tool used and the version: GPT4
-// The purpose of the use: Explaining unfamiliar concepts and exploring different approaches to failing test-cases, enchancing comments.
-// The part(s) where it was utilized: Function tests from 8 to 11
 
 #include "datastructures.hh"
 #include <random>
